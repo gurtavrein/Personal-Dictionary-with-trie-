@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1588918322 source:e:\documents\academic\2.winter semester 2019-20\cse2003 dsa\j\guru4\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<fstream>
+
